@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**ArtemHryn/ArtemHryn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 🔭 I’m currently working on my skill<br>🌱 I’m currently learning everything I can get my hands on<br>🤔 I’m looking for a great position to implement my ideas<br>📫 How to reach me:  @art_gry - tg<br>
 
@@ -23,4 +16,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=ArtemHryn&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
